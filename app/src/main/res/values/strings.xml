@@ -2,5 +2,6 @@
     <string name="app_name">Text Compare Tool - Compare Text and Find Diff</string>
     <string name="enter_text_here">Enter text here</string>
     <string name="find_diff">Find Diff</string>
+    <string name="clear">Clear</string>
 
 </resources>
